@@ -18,6 +18,13 @@
 1700,0,'ClockWise',17
 2101,1,'E',21
 2102,1,'W',21
+2201,0,'East Townline',22
+2300,0,'ClockWise',23
+2301,0,'CounterClockWise',23
+2400,0,'ClockWise',24
+2401,0,'CounterClockWise',24
+2600,2,'0',26
+2601,2,'1',26
 3101,0,'Abbotsford',31
 3100,0,'Mission',31
 3201,0,'CounterClockWise',32
@@ -26,4 +33,5 @@
 3404,1,'S',34
 3500,0,'Downtown Ex',35
 3501,0,'Hatzic',35
+3900,0,'',39
 4001,0,'CounterClockWise',40
