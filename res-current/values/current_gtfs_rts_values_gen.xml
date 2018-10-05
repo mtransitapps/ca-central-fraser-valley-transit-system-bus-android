@@ -4,8 +4,8 @@
     <bool name="current_gtfs_rts_frequency_available">false</bool>
     <string name="current_gtfs_rts_area_min_lat">49.0042539957294</string>
     <string name="current_gtfs_rts_area_max_lat">49.1583189954291</string>
-    <string name="current_gtfs_rts_area_min_lng">-122.470603999536</string>
-    <string name="current_gtfs_rts_area_max_lng">-122.214491999798</string>
+    <string name="current_gtfs_rts_area_min_lng">-122.47060399953601</string>
+    <string name="current_gtfs_rts_area_max_lng">-122.21449199979801</string>
     <integer name="current_gtfs_rts_first_departure_in_sec">1535892960</integer>
     <integer name="current_gtfs_rts_last_departure_in_sec">1561874820</integer>
 </resources>
