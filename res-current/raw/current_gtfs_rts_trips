@@ -1,30 +1,25 @@
-101,0,'Blueridge',1
-100,0,'McKee',1
-201,0,'Bluejay',2
-200,0,'Huntingdon',2
+101,0,'Highstreet',1
+100,0,'UFV',1
+201,0,'Highstreet',2
+200,0,'McMillan',2
 301,0,'Clearbrook',3
-300,0,'UFV',3
+300,0,'Huntingdon',3
 401,0,'Saddle',4
 501,1,'E',5
 502,1,'W',5
 601,0,'Peardonville',6
 701,0,'Sumas Mtn',7
+901,0,'Downtown',9
+900,0,'McKee',9
 1200,0,'Exch',12
 1201,0,'UFV',12
 1501,0,'Auguston',15
 1500,0,'Downtown',15
 1601,1,'E',16
 1602,1,'W',16
-1700,0,'Townline Industrial',17
+1700,0,'Industrial',17
 2100,0,'Abbotsford',21
 2101,0,'Aldergrove',21
-2201,0,'East Townline',22
-2301,1,'E',23
-2302,1,'W',23
-2401,0,'CCW',24
-2400,0,'CW',24
-2601,0,'Bourquin Exch',26
-2600,0,'Sandy Hl',26
 3101,0,'Abbotsford',31
 3100,0,'Mission',31
 3201,0,'West Hts',32
