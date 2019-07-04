@@ -5,7 +5,7 @@ Central Fraser Valley Transit buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from November 2, 2018 to August 31, 2019.
+Schedule from June 30, 2019 to August 31, 2019.
 Tweets from @BCTransit.
 ----------
 Full description:
