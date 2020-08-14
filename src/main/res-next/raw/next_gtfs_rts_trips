@@ -1,0 +1,36 @@
+101,0,'Highstreet',1
+100,0,'UFV',1
+201,0,'Highstreet',2
+200,0,'McMillan',2
+301,0,'Clearbrook',3
+300,0,'Huntingdon',3
+401,0,'Saddle',4
+501,1,'E',5
+502,1,'W',5
+601,0,'Gladwin',6
+701,0,'Sumas Mtn',7
+901,0,'Downtown',9
+900,0,'McKee',9
+1200,0,'Bourquin Exch',12
+1201,0,'UFV',12
+1501,0,'Auguston',15
+1500,0,'Downtown',15
+1601,1,'E',16
+1602,1,'W',16
+1700,0,'Industrial',17
+2101,0,'Aldergrove',21
+2100,0,'Bourquin Exch',21
+2201,0,'East Townline',22
+2401,0,'CCW',24
+2400,0,'CW',24
+2601,0,'Bourquin Exch',26
+2600,0,'Sandy Hl',26
+3101,0,'Bourquin Exch',31
+3100,0,'Mission',31
+3201,0,'West Hts',32
+3301,0,'Cedar Vly',33
+3403,1,'N',34
+3404,1,'S',34
+3501,1,'E',35
+3502,1,'W',35
+3900,0,'Shopper Shuttle',39
