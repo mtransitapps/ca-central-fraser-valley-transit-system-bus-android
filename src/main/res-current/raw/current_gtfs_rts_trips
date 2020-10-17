@@ -5,8 +5,8 @@
 301,0,'Clearbrook',3
 300,0,'Huntingdon',3
 401,0,'Saddle',4
-501,1,'E',5
-502,1,'W',5
+500,0,'Bourquin Exch',5
+501,0,'Clearbrook',5
 601,0,'Gladwin',6
 701,0,'Sumas Mtn',7
 901,0,'Downtown',9
@@ -15,9 +15,9 @@
 1201,0,'UFV',12
 1501,0,'Auguston',15
 1500,0,'Downtown',15
-1601,1,'E',16
-1602,1,'W',16
-1700,0,'Industrial',17
+1601,0,'Downtown',16
+1600,0,'McMillan',16
+1700,0,'Bourquin Exch',17
 2101,0,'Aldergrove',21
 2100,0,'Bourquin Exch',21
 2201,0,'East Townline',22
