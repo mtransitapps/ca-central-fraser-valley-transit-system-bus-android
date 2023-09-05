@@ -3,16 +3,16 @@
 200,0,'Abbotsford Rec Ctr',2
 201,0,'Highstreet Mall',2
 301,0,'Clearbrook',3
-300,0,'Huntingdon / Sumas Ctr',3
+300,0,'Huntingdon',3
 400,0,'Montrose Exch',4
 401,0,'Saddle',4
 500,0,'Bourquin Exch',5
-501,0,'S Fraser & Clearbrook',5
+501,0,'Peardonville & Grant',5
 601,0,'Gladwin',6
 701,0,'Downtown',7
 700,0,'Sumas Mtn / To McMillan',7
-901,0,'Bourquin Exch',9
-900,0,'Old Clayburn & Sandy Hl',9
+900,0,'McKee',9
+901,0,'Montrose Exch',9
 1200,0,'Bourquin Exch',12
 1201,0,'UFV',12
 1501,0,'Auguston',15
@@ -23,6 +23,11 @@
 1701,0,'Ind',17
 2101,0,'Aldergrove',21
 2100,0,'Bourquin Exch',21
+2201,0,'East Townline',22
+2401,0,'AM',24
+2400,0,'PM',24
+2601,0,'Bourquin Exch',26
+2600,0,'Montrose Exch Only',26
 3101,0,'Bourquin Exch',31
 3100,0,'Mission Exch',31
 3200,0,'Mission Exch',32
