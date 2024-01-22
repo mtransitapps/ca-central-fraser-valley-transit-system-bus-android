@@ -1,22 +1,22 @@
-1,'1','Highstreet / UFV','8CC63F',46659767,3
-2,'2','Highstreet / McMillan','8177B7',47583288,3
-3,'3','Clearbrook / Huntingdon','F37421',48506809,3
-4,'4','Saddle / Montrose','AC5C3B',49430330,3
-5,'5','Clearbrook / Bourquin Via Hosp','A54499',50353851,3
-6,'6','Gladwin','00AEEF',51277372,3
-7,'7','Sumas Mtn / Montrose','00AA4F',52200893,3
-9,'9','McKee / Montrose','5D87A1',54047935,3
-12,'12','UFV / Bourquin','004B8D',1450411687,3
-15,'15','Auguston / Montrose','49176D',1453182250,3
-16,'16','McMillan / Montrose','B3AA7E',1454105771,3
-17,'17','Ind / Bourquin','75AE99',1455029292,3
-21,'21','Aldergrove / Abbotsford','7C3F25',1478117317,3
-22,'22','East Townline S Special','FCAF17',1479040838,3
-24,'24','Ctr Loop S Special','ED1D8F',1480887880,3
-26,'26','Sandy Hl / Bourquin School Special','E270AB',1482734922,3
-31,'31','Abbotsford / Mission','BF83B9',1506746468,3
-32,'32','West Hts','ED1D8F',1507669989,3
-33,'33','Cedar Vly','00AA4F',1508593510,3
-34,'34','East Side','FCAF17',1509517031,3
-35,'35','Hatzic','F37421',1510440552,3
-39,'39','Shopper Shuttle','004B8D',1514134636,3
+1,'1','Highstreet / UFV','8CC63F',49,3
+2,'2','Highstreet / McMillan','8177B7',50,3
+3,'3','Clearbrook / Huntingdon','F37421',51,3
+4,'4','Saddle / Montrose','AC5C3B',52,3
+5,'5','Clearbrook / Bourquin Via Hosp','A54499',53,3
+6,'6','Gladwin','00AEEF',54,3
+7,'7','Sumas Mtn / Montrose','00AA4F',55,3
+9,'9','McKee / Montrose','5D87A1',57,3
+12,'12','UFV / Bourquin','004B8D',1569,3
+15,'15','Auguston / Montrose','49176D',1572,3
+16,'16','McMillan / Montrose','B3AA7E',1573,3
+17,'17','Ind / Bourquin','75AE99',1574,3
+21,'21','Aldergrove / Abbotsford','7C3F25',1599,3
+22,'22','East Townline S Special','FCAF17',1600,3
+24,'24','Ctr Loop S Special','ED1D8F',1602,3
+26,'26','Sandy Hl / Bourquin School Special','E270AB',1604,3
+31,'31','Abbotsford / Mission','BF83B9',1630,3
+32,'32','West Hts','ED1D8F',1631,3
+33,'33','Cedar Vly','00AA4F',1632,3
+34,'34','East Side','FCAF17',1633,3
+35,'35','Hatzic','F37421',1634,3
+39,'39','Shopper Shuttle','004B8D',1638,3
