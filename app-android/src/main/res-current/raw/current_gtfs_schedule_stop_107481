@@ -1,4 +1,10 @@
-'1781',400,61900,,'',0,9200,,'',0,9800,,'',0,10100,,'',0,10000,,'',0,10500,,'',0,10500,,'',0,10000,,'',0,10500,,'',0,10700,,'',0,9300,,'',0,11500,,'',0,10500,,'',0,10100,,'',0,10300,,'',0,10000,,'',0
-'2086',400,61900,0,'Montrose Exch',0,9600,0,'Montrose Exch',0,2000,0,'Montrose Exch',0,7300,0,'Montrose Exch',0,11300,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10100,0,'Montrose Exch',0,10100,0,'Montrose Exch',0,2400,0,'Montrose Exch',0,7600,0,'Montrose Exch',0,10600,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10100,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,9900,0,'Montrose Exch',0
-'2091',400,70100,,'',0,20400,,'',0,12500,,'',0,17000,,'',0,13000,,'',0,17000,,'',0,13000,,'',0,12000,,'',0,17500,,'',0
-'2086',2600,80600,,'',0,63600,0,'Montrose Exch Only',0
+'2086',400,80800,0,'Montrose Exch',0,63900,0,'Montrose Exch',0
+'2091',400,120000,,'',0,30000,,'',0,25000,,'',0,17500,,'',0
+'3046',400,70100,,'',0,20400,,'',0,12500,,'',0,30000,,'',0,30000,,'',0
+'3047',400,61900,0,'Montrose Exch',0,9600,0,'Montrose Exch',0,2000,0,'Montrose Exch',0,18600,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10100,0,'Montrose Exch',0,10100,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10600,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10100,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,9900,0,'Montrose Exch',0
+'3048',400,61900,0,'Montrose Exch',0,9600,0,'Montrose Exch',0,2000,0,'Montrose Exch',0,18600,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10100,0,'Montrose Exch',0,10100,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10600,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10100,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,10000,0,'Montrose Exch',0,9900,0,'Montrose Exch',0
+'3051',400,61900,,'',0,9200,,'',0,9800,,'',0,10100,,'',0,10000,,'',0,10500,,'',0,10500,,'',0,10000,,'',0,10500,,'',0,10700,,'',0,9300,,'',0,11500,,'',0,10500,,'',0,10100,,'',0,10300,,'',0,10000,,'',0
+'3052',400,70100,,'',0,20400,,'',0,12500,,'',0,30000,,'',0,30000,,'',0
+'2086',2600,144200,0,'Montrose Exch Only',0
+'3047',2600,80600,,'',0
+'3048',2600,80600,,'',0
