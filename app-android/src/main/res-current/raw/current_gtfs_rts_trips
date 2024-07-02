@@ -10,7 +10,7 @@
 501,0,'Clearbrook',5
 601,0,'Gladwin',6
 701,0,'Bourquin Exch',7
-700,0,'McMillan / Whatcom Rd',7
+700,0,'Whatcom Rd',7
 901,0,'Bourquin Exch',9
 900,0,'McKee',9
 1200,0,'Bourquin Exch',12
@@ -23,11 +23,6 @@
 1701,0,'Townline Rd',17
 2101,0,'Aldergrove',21
 2100,0,'Bourquin Exch',21
-2201,0,'East Townline',22
-2401,0,'AM',24
-2400,0,'PM',24
-2600,0,'Bourquin Exch',26
-2601,0,'Sandy Hl',26
 3101,0,'Bourquin Exch',31
 3100,0,'Mission Exch',31
 3200,0,'Mission Exch',32
@@ -39,3 +34,10 @@
 3501,0,'Hatzic',35
 3500,0,'Mission Exch',35
 3900,0,'Shopper Shuttle',39
+1000701,0,'Bourquin Exch',10007
+1000700,0,'McMillan',10007
+1002101,0,'Aldergrove',10021
+1002100,0,'Bourquin Exch',10021
+1003101,0,'Bourquin Exch',10031
+1003100,0,'Mission Exch',10031
+24003100,0,'Mission Exch Express',240031
