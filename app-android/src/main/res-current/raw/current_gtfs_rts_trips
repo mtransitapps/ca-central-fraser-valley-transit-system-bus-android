@@ -17,11 +17,6 @@
 1701,0,'Bourquin Exch',17
 2101,0,'Aldergrove',21
 2100,0,'Bourquin Exch',21
-2201,0,'East Townline',22
-2401,0,'AM',24
-2400,0,'PM',24
-2601,0,'AM',26
-2600,0,'PM',26
 3101,0,'Bourquin Exch',31
 3100,0,'Mission Exch',31
 3201,0,'Mission Exch',32
@@ -29,6 +24,8 @@
 3401,0,'Mission Exch',34
 3501,0,'Mission Exch',35
 3900,0,'Silver Crk Only',39
+100101,0,'Chilliwack Heritage Pk',1001
+100100,0,'Cottonwood Mall',1001
 1000700,0,'Bourquin Exch',10007
 1002101,0,'Aldergrove',10021
 1002100,0,'Bourquin Exch',10021
