@@ -21,17 +21,6 @@ public class CentralFraserValleyTransitSystemBusAgencyTools extends DefaultAgenc
 	}
 
 	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
-	@NotNull
-	@Override
-	public String getAgencyName() {
-		return "CFV TS";
-	}
-
-	@Override
 	public boolean excludeRoute(@NotNull GRoute gRoute) {
 		if (gRoute.getRouteLongNameOrDefault().contains("FVX")) {
 			return EXCLUDE; // available in Fraser Valley Express app
@@ -43,12 +32,6 @@ public class CentralFraserValleyTransitSystemBusAgencyTools extends DefaultAgenc
 			}
 		}
 		return super.excludeRoute(gRoute);
-	}
-
-	@NotNull
-	@Override
-	public Integer getAgencyRouteType() {
-		return MAgency.ROUTE_TYPE_BUS;
 	}
 
 	@Override
@@ -87,17 +70,6 @@ public class CentralFraserValleyTransitSystemBusAgencyTools extends DefaultAgenc
 	@Override
 	public boolean defaultAgencyColorEnabled() {
 		return true;
-	}
-
-	private static final String AGENCY_COLOR_GREEN = "34B233";// GREEN (from PDF Corporate Graphic Standards)
-	// private static final String AGENCY_COLOR_BLUE = "002C77"; // BLUE (from PDF Corporate Graphic Standards)
-
-	private static final String AGENCY_COLOR = AGENCY_COLOR_GREEN;
-
-	@NotNull
-	@Override
-	public String getAgencyColor() {
-		return AGENCY_COLOR;
 	}
 
 	@SuppressWarnings("DuplicateBranchesInSwitch")
@@ -141,14 +113,6 @@ public class CentralFraserValleyTransitSystemBusAgencyTools extends DefaultAgenc
 	@Override
 	public boolean directionFinderEnabled() {
 		return true;
-	}
-
-	@Override
-	public boolean allowNonDescriptiveHeadSigns(long routeId) {
-		if (routeId == 26L) {
-			return true; // 2023-12-26: it's a mess
-		}
-		return super.allowNonDescriptiveHeadSigns(routeId);
 	}
 
 	private static final Pattern BAY_AZ_ = CleanUtils.cleanWords("bay [a-z]");
