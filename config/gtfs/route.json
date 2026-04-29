@@ -1,6 +1,23 @@
 {
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "route_id_cleanup_regex": "\\-[A-Z]+$",
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "FAIR",
+            "route_id": "1001"
+        }
+    ],
     "allow_non_descriptive_head_signs_until": {
         "24": "20260430",
         "26": "20260430"
-    }
+    },
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "( connector$)",
+            "ignore_case": true
+        }
+    ]
 }
