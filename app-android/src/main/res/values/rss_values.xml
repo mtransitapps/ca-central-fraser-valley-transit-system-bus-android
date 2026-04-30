@@ -1,39 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
     <string-array name="rss_feeds">
+        <item>https://www.bctransit.com/agassiz-harrison/feed/</item>
         <item>https://www.bctransit.com/central-fraser-valley/feed/</item>
+        <item>https://www.bctransit.com/chilliwack/feed/</item>
+        <item>https://www.bctransit.com/hope/feed/</item>
         <item>https://www.bctransit.com/feed/</item>
         <!-- TODO? <item>https://www.bctransit.com/media/releases-and-advisories/feed/</item> -->
     </string-array>
     <string-array name="rss_feeds_author_icon">
         <item>https://www.bctransit.com/favicon.ico</item>
         <item>https://www.bctransit.com/favicon.ico</item>
+        <item>https://www.bctransit.com/favicon.ico</item>
+        <item>https://www.bctransit.com/favicon.ico</item>
+        <item>https://www.bctransit.com/favicon.ico</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
-        <item>@string/gtfs_rts_short_name</item>
+        <item>Agassiz-Harrison</item>
+        <item>Central Fraser Valley</item>
+        <item>Chilliwack</item>
+        <item>Hope</item>
         <item>BC Transit</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
+        <item>https://www.bctransit.com/agassiz-harrison/news/</item>
         <item>https://www.bctransit.com/central-fraser-valley/news/</item>
+        <item>https://www.bctransit.com/chilliwack/news/</item>
+        <item>https://www.bctransit.com/hope/news/</item>
         <item>https://www.bctransit.com/news/</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>bctransit.com</item>
         <item>bctransit.com</item>
+        <item>bctransit.com</item>
+        <item>bctransit.com</item>
+        <item>bctransit.com</item>
     </string-array>
     <string-array name="rss_feeds_colors">
+        <item />
+        <item />
         <item />
         <item>@string/parent_agency_color</item>
     </string-array>
     <integer-array name="rss_feeds_severity">
         <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_agency</item>    
         <item>@integer/news_provider_severity_info_unknown</item>
     </integer-array>
     <string-array name="rss_feeds_date_link_fallback_regex">
         <item>\\d{2}-\\d{2}-\\d{4}</item>
         <item>\\d{2}-\\d{2}-\\d{4}</item>
+        <item>\\d{2}-\\d{2}-\\d{4}</item>
+        <item>\\d{2}-\\d{2}-\\d{4}</item>
+        <item>\\d{2}-\\d{2}-\\d{4}</item>
     </string-array>
     <string-array name="rss_feeds_date_link_fallback_format">
+        <item>MM-dd-yyyy</item>
+        <item>MM-dd-yyyy</item>
+        <item>MM-dd-yyyy</item>
         <item>MM-dd-yyyy</item>
         <item>MM-dd-yyyy</item>
     </string-array>

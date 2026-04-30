@@ -18,6 +18,14 @@
         {
             "regex": "( connector$)",
             "ignore_case": true
+        },
+        {
+            "regex": "( Express$)",
+            "ignore_case": true
+        },
+        {
+            "regex": "( special$)",
+            "ignore_case": true
         }
     ]
 }
