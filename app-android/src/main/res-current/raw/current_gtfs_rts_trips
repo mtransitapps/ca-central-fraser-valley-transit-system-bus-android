@@ -17,7 +17,7 @@
 1701,0,'Bourquin Exch',17
 2101,0,'Aldergrove',21
 2100,0,'Bourquin Exch',21
-2201,0,'East Townline S Special',22
+2201,0,'E Townline S',22
 2401,0,'AM',24
 2400,0,'PM',24
 2601,0,'AM',26
@@ -28,10 +28,28 @@
 3301,0,'Mission City Stn',33
 3401,0,'Mission City Stn',34
 3501,0,'Mission City Stn',35
-3900,0,'Silver Crk Only',39
+3900,0,'Silver Creek',39
+5100,0,'Downtown',51
+5101,0,'UFV Chilliwack',51
+5201,0,'Cottonwood Mall',52
+5200,0,'Downtown',52
+5301,0,'Downtown',53
+5401,0,'Cottonwood Mall',54
+5501,0,'UFV Chilliwack',55
+5701,0,'Cottonwood Mall',57
+5700,0,'Downtown',57
+5801,0,'Cottonwood Mall',58
+5901,0,'Cottonwood Mall',59
+5900,0,'Downtown',59
+6600,0,'Chilliwack',66
+6601,0,'Lougheed Stn',66
+7101,0,'Chilliwack',71
+7100,0,'Harrison Hot Spgs',71
+7201,0,'Agassiz',72
+7200,0,'Hope',72
 1000700,0,'Bourquin Exch',10007
 1002101,0,'Aldergrove',10021
 1002100,0,'Bourquin Exch',10021
 1003101,0,'Bourquin Exch',10031
 1003100,0,'Mission City Stn',10031
-24003100,0,'Mission City Stn Express',240031
+24003100,0,'Mission City Stn',240031
