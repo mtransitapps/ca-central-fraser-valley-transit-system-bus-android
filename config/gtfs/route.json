@@ -20,7 +20,11 @@
             "ignore_case": true
         },
         {
-            "regex": "( Express$)",
+            "regex": "( express$)",
+            "ignore_case": true
+        },
+         {
+            "regex": "( only$)",
             "ignore_case": true
         },
         {
