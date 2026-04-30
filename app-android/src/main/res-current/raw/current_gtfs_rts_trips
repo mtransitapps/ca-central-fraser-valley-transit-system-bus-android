@@ -17,7 +17,7 @@
 1701,0,'Bourquin Exch',17
 2101,0,'Aldergrove',21
 2100,0,'Bourquin Exch',21
-2201,0,'E Townline S Special',22
+2201,0,'E Townline S',22
 2401,0,'AM',24
 2400,0,'PM',24
 2601,0,'AM',26
@@ -52,4 +52,4 @@
 1002100,0,'Bourquin Exch',10021
 1003101,0,'Bourquin Exch',10031
 1003100,0,'Mission City Stn',10031
-24003100,0,'Mission City Stn Express',240031
+24003100,0,'Mission City Stn',240031
