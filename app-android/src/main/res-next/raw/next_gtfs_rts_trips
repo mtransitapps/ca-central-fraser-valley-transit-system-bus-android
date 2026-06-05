@@ -1,0 +1,55 @@
+101,0,'Highstreet',1
+100,0,'UFV',1
+201,0,'Highstreet',2
+200,0,'McMillan',2
+301,0,'Clearbrook',3
+300,0,'Huntingdon',3
+401,0,'Montrose Exch',4
+500,0,'Bourquin Exch',5
+501,0,'Clearbrook',5
+601,0,'Gladwin',6
+700,0,'Montrose Exch',7
+900,0,'Bourquin Exch',9
+1200,0,'Bourquin Exch',12
+1201,0,'UFV Abbotsford',12
+1501,0,'Montrose Exch',15
+1600,0,'Montrose Exch',16
+1701,0,'Bourquin Exch',17
+2101,0,'Aldergrove',21
+2100,0,'Bourquin Exch',21
+3101,0,'Bourquin Exch',31
+3100,0,'Mission City Stn',31
+3201,0,'Mission City Stn',32
+3301,0,'Mission City Stn',33
+3401,0,'Mission City Stn',34
+3501,0,'Mission City Stn',35
+3900,0,'Silver Creek',39
+5100,0,'Downtown',51
+5101,0,'UFV Chilliwack',51
+5201,0,'Cottonwood Mall',52
+5200,0,'Downtown',52
+5301,0,'Downtown',53
+5401,0,'Cottonwood Mall',54
+5501,0,'UFV Chilliwack',55
+5601,0,'Promontory Rd',56
+5701,0,'Cottonwood Mall',57
+5700,0,'Downtown',57
+5801,0,'Cottonwood Mall',58
+5901,0,'Cottonwood Mall',59
+5900,0,'Downtown',59
+6600,0,'Chilliwack',66
+6601,0,'Lougheed Stn',66
+7101,0,'Chilliwack',71
+7100,0,'Harrison Hot Spgs',71
+7201,0,'Agassiz',72
+7200,0,'Hope',72
+74701,0,'Airshow',747
+74700,0,'Bourquin Exch',747
+100100,0,'Cottonwood Mall',1001
+100101,0,'Heritage Park',1001
+1000700,0,'Bourquin Exch',10007
+1002101,0,'Aldergrove',10021
+1002100,0,'Bourquin Exch',10021
+1003101,0,'Bourquin Exch',10031
+1003100,0,'Mission City Stn',10031
+24003100,0,'Mission City Stn',240031
