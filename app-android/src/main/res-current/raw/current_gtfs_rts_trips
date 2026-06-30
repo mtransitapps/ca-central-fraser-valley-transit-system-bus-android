@@ -17,11 +17,6 @@
 1701,0,'Bourquin Exch',17
 2101,0,'Aldergrove',21
 2100,0,'Bourquin Exch',21
-2201,0,'E Townline S',22
-2401,0,'AM',24
-2400,0,'PM',24
-2601,0,'AM',26
-2600,0,'PM',26
 3101,0,'Bourquin Exch',31
 3100,0,'Mission City Stn',31
 3201,0,'Mission City Stn',32
@@ -36,6 +31,7 @@
 5301,0,'Downtown',53
 5401,0,'Cottonwood Mall',54
 5501,0,'UFV Chilliwack',55
+5601,0,'Promontory Rd',56
 5701,0,'Cottonwood Mall',57
 5700,0,'Downtown',57
 5801,0,'Cottonwood Mall',58
@@ -47,6 +43,10 @@
 7100,0,'Harrison Hot Spgs',71
 7201,0,'Agassiz',72
 7200,0,'Hope',72
+74701,0,'Airshow',747
+74700,0,'Bourquin Exch',747
+100100,0,'Cottonwood Mall',1001
+100101,0,'Heritage Park',1001
 1000700,0,'Bourquin Exch',10007
 1002101,0,'Aldergrove',10021
 1002100,0,'Bourquin Exch',10021
