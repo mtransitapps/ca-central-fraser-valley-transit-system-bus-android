@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
     <string-array name="rss_feeds">
-        <item>https://www.bctransit.com/agassiz-harrison/feed/</item>
-        <item>https://www.bctransit.com/central-fraser-valley/feed/</item>
-        <item>https://www.bctransit.com/chilliwack/feed/</item>
-        <item>https://www.bctransit.com/hope/feed/</item>
+        <item>https://www.bctransit.com/feed/?transit_system=agassiz-harrison</item>
+        <item>https://www.bctransit.com/feed/?transit_system=central-fraser-valley</item>
+        <item>https://www.bctransit.com/feed/?transit_system=chilliwack</item>
+        <item>https://www.bctransit.com/feed/?transit_system=hope</item>
         <item>https://www.bctransit.com/feed/</item>
-        <!-- TODO? <item>https://www.bctransit.com/media/releases-and-advisories/feed/</item> -->
     </string-array>
     <string-array name="rss_feeds_author_icon">
         <item>https://www.bctransit.com/favicon.ico</item>
@@ -23,11 +22,11 @@
         <item>BC Transit</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>https://www.bctransit.com/agassiz-harrison/news/</item>
-        <item>https://www.bctransit.com/central-fraser-valley/news/</item>
-        <item>https://www.bctransit.com/chilliwack/news/</item>
-        <item>https://www.bctransit.com/hope/news/</item>
-        <item>https://www.bctransit.com/news/</item>
+        <item>https://www.bctransit.com/news-and-media/releases-and-advisories/?transit_system=agassiz-harrison</item>
+        <item>https://www.bctransit.com/news-and-media/releases-and-advisories/?transit_system=central-fraser-valley</item>
+        <item>https://www.bctransit.com/news-and-media/releases-and-advisories/?transit_system=chilliwack</item>
+        <item>https://www.bctransit.com/news-and-media/releases-and-advisories/?transit_system=hope</item>
+        <item>https://www.bctransit.com/news-and-media/releases-and-advisories/</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>bctransit.com</item>
